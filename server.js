@@ -32,7 +32,7 @@ app.use(express.json());
 
 // Home route
 app.get('/', (req, res) => {
-    res.send('Welcome to My Backend Server!');
+    res.send('Welcome to My Updated Backend Server!');
 });
 
 // API Example
